@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "Keyboard",
+    "price": 1500,
+    "categoryId": "1",
+    "delivery": true,
+    "image": "/assets/keyboard.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Gaming Keyboard",
+    "price": 3500,
+    "categoryId": "1",
+    "delivery": false,
+    "image": "/assets/GamingKeyborad.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Mechanical Keyboard",
+    "price": 2500,
+    "categoryId": "1",
+    "delivery": false,
+    "image": "/assets/mechanical.jpg"
+  },
+  
+  {
+    "id": "4",
+    "name": "Normal headphones",
+    "price": 1200,
+    "categoryId": "2",
+    "delivery": true,
+    "image": "/assets/wired.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Wireless Headphones",
+    "price": 2400,
+    "categoryId": "2",
+    "delivery": false,
+    "image": "/assets/wireless.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Gaming Headphones",
+    "price": 1500,
+    "categoryId": "2",
+    "delivery": true,
+    "image": "/assets/gaming.jpg"
+  }
+]
